@@ -25,7 +25,7 @@ dictionary = {
 'X':   '-..-',
 'Y':   '-.--',
 'Z':   '--..',
-' ': '  ',}
+' ': '  ', }
 
 on = True
 print('Welcome to the Morse Code Translator!\n')
